@@ -72,3 +72,5 @@ Recuerda siempre seguir las buenas prácticas de programación al escribir códi
 Asegúrate de que tu código sea claro y fácil de entender por otros desarrolladores.
 
 Aplica los principios de SOLID para que tu código sea robusto y fácil de mantener.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
